@@ -2,12 +2,6 @@
 
 
 [[projects]]
-  branch = "master"
-  name = "github.com/Iwark/pushnotification"
-  packages = ["."]
-  revision = "d38f6108f22f72d38dcac5ca2a83f8f70d3b5156"
-
-[[projects]]
   name = "github.com/aws/aws-lambda-go"
   packages = [
     "lambda",
@@ -65,6 +59,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "6ccc2fbb856600f95f4c49325754708efd9a0a7e55fddb2fb96ede5de3ee821d"
+  inputs-digest = "c13964dc9ab767ad0f8fb44619197f4f73367ab9b9caec8f0caf5dbf88461f1b"
   solver-name = "gps-cdcl"
   solver-version = 1
